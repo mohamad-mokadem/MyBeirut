@@ -19,7 +19,7 @@ MyBeirut is a municipality service management platform developed for CSC490 (Sof
 
 ## Contribution
 
-Worked as a full-stack developer in a team of 5. Mohammad Daoud and I were mainly responsible for backend development, database management, Firebase authentication, and backend-related functionalities.
+Worked as a backend developer in a team of 5. Mohammad Daoud and I were mainly responsible for backend development, database management, Firebase authentication, and backend-related functionalities.
 
 ## Purpose
 
